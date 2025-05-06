@@ -27,7 +27,7 @@ service:
   port: 3100
 
 ingress:
-  enabled: false
+  enabled: true
   className: ""
   annotations: {}
   hosts:
